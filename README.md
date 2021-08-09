@@ -3,7 +3,7 @@
 
 
 ### Hello There  👋 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="50" height="50" />
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" height="100" />
 
  
 
@@ -18,7 +18,7 @@
 
 
 
-<br />
+
 
 ### Languages and Tools:
 
@@ -34,7 +34,6 @@
 
 
 <br />
-<br />
----
+
 
 
