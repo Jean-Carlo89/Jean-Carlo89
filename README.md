@@ -8,7 +8,6 @@
  
 
 
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 
 - 🔭 I’m motivated by technology.
 - 🧠 I’m in an eternal pursuit of knowledge
