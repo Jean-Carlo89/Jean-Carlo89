@@ -2,7 +2,7 @@
 
 
 
-### Hello There  👋 
+### Hello There , I'm Jean 👋 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" height="100" />
 
  
@@ -12,6 +12,7 @@
 - 🔭 I’m motivated by science.
 - 🧠 I’m in an eternal pursuit of knowledge.
 - 🐉  I aim to develop myself and other people with the power of technology
+- 👀 I'm currently learning typescript
 
 
 
