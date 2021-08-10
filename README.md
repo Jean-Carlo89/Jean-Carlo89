@@ -39,7 +39,9 @@
 <details>
 <summary>Github stats</summary>
 <br>  
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jean-Carlo89)
+ 
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=Jean-Carlo89)
+
 </details>
 
 
