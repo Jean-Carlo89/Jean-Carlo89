@@ -35,7 +35,7 @@
 
 
 <br >
-\
+
 <details>
 <summary>Github stats</summary>
 <br>  
