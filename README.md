@@ -3,7 +3,7 @@
 
 
 ### Hello There , I'm Jean 👋 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" height="100" />
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="500" height="310" />
 
  
 
@@ -34,7 +34,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
-<br >
+<br>
+<br> 
 
 <details>
 <summary>Github stats</summary>
