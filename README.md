@@ -12,7 +12,7 @@
 - 🔭 I’m motivated by science.
 - 🧠 I’m in an eternal pursuit of knowledge.
 - 🐉  I aim to develop myself and other people with the power of technology
-- 👀 I'm currently learning typescript
+- 👀 I'm currently learning Typescript
 
 
 
