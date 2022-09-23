@@ -1,12 +1,16 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Jean-Carlo89)
 <h1 align="center">Hello There , I'm Jean 👋  👨‍💻</h1> 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="200" height="210" />
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220" />
+
+ - 🔭 I’m motivated by science.
+- 🧠 I’m in an eternal pursuit of knowledge.
+- 🐉  I aim to develop myself and other people with the power of technology
+- 👀 I'm currently learning Typescript 
 
 
 
-
-
+***
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=Jean-Carlo89&theme=tokyonight&show_icons=true" alt="Jean Carlo's GitHub stats"><img>
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=Jean-Carlo89&theme=tokyonight" alt="Jean Carlo's Stats" ><img>
 
@@ -15,7 +19,7 @@
 ***
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Contacts:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jeanscarlo/?locale=en_US" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
 <a href="mailto:jeancarlodev@gmail.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
@@ -41,10 +45,9 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="./icons/mysql.png" alt="mySQL" width="40" height="40"/> </a>
  <a href="https://www.microsoft.com/pt-br/sql-server/" target="_blank"> <img src="./icons/sqlserver.png" alt="sqlServer" width="40" height="40"/> </a> 
  <a href="https://www.mongodb.com/" target="_blank"> <img src="./icons/mongo.png" alt="Mongo DB" width="40" height="40"/> </a>
- <a href="https://www.oracle.com/br/java/" target="_blank"> <img src="./icons/java.png" alt="java" width="40" height="40"/> </a>
  <a href="https://aws.amazon.com" target="_blank"> <img src="./icons/aws.png" alt="AWS" width="40" height="40"/> </a>
  <a href="https://www.heroku.com/" target="_blank"> <img src="./icons/heroku.png" alt="Heroku" width="40" height="40"/> </a>
- <a href="https://jestjs.io/pt-BR/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
+ <a href="https://jestjs.io/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
 <a href="https://nestjs.com//" target="_blank"> <img src="./icons/nest.png" alt="git" width="40" height="40"/> </a>
 </p>
