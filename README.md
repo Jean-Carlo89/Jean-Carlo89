@@ -1,23 +1,24 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Jean-Carlo89)
+
+<div>
 <h1 align="center">Hello There , I'm Jean 👋  👨‍💻</h1> 
-<img  class = "green"src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220" />
 
- - 🔭 I’m motivated by science.
-- 🧠 I’m in an eternal pursuit of knowledge.
-- 🐉  I aim to develop myself and other people with the power of technology
-- 👀 I'm currently learning Typescript 
 
+</div>
 
 
 ***
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=Jean-Carlo89&theme=tokyonight&show_icons=true" alt="Jean Carlo's GitHub stats"><img>
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=Jean-Carlo89&theme=tokyonight" alt="Jean Carlo's Stats" ><img>
-
+<img  src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220"   />
 
  
 ***
 
+- 🔭 I’m motivated by coding.
+- 🧠 I’m in an eternal pursuit of knowledge.
+- 👀 I'm currently learning DDD
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
@@ -53,17 +54,8 @@
 </p>
 
 ***
-<style>
-.green {
-   padding-top:110px;
-}
-</style>
 
 
-<!-- - 🔭 I’m motivated by science.
-- 🧠 I’m in an eternal pursuit of knowledge.
-- 🐉  I aim to develop myself and other people with the power of technology
-- 👀 I'm currently learning Typescript -->
 
 
 
