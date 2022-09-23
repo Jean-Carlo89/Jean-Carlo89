@@ -1,7 +1,7 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Jean-Carlo89)
 <h1 align="center">Hello There , I'm Jean 👋  👨‍💻</h1> 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220" />
+<img  class = "green"src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220" />
 
  - 🔭 I’m motivated by science.
 - 🧠 I’m in an eternal pursuit of knowledge.
@@ -53,7 +53,11 @@
 </p>
 
 ***
-
+<style>
+.green {
+   padding-top:110px;
+}
+</style>
 
 
 <!-- - 🔭 I’m motivated by science.
