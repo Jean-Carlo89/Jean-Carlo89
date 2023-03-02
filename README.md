@@ -8,13 +8,18 @@
 </div>
 
 
-***
+<!--***
  <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api?username=Jean-Carlo89&theme=tokyonight&show_icons=true" alt="Jean Carlo's GitHub stats"><img>
- <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=Jean-Carlo89&theme=tokyonight" alt="Jean Carlo's Stats" ><img>
+ <img height="205px" src="https://github-readme-stats-beryl.vercel.app/api/top-langs/?username=Jean-Carlo89&theme=tokyonight" alt="Jean Carlo's Stats" ><img> 
+
+*** -->
 <!--<img  src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="220" height="220"   />-->
 
+
+<img  src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="right" alt="GIF" width="550" height="250"   />
+
  
-***
+
 
 - 🔭 I’m motivated by coding.
 - 🧠 I’m in an eternal pursuit of knowledge.
