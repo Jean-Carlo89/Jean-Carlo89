@@ -21,9 +21,9 @@
  
 
 
-- 🔭 I’m motivated by coding.
-- 🧠 I’m in an eternal pursuit of knowledge.
-- 👀 I'm currently learning DDD
+I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, and I am currently studying Java with the Spring ecosystem.
+
+
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
@@ -59,6 +59,11 @@
 </p>
 
 ***
+
+# 💻 Skills
+<br />
+
+![Jean-Carlo89's stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Carlo89&hide_border=true&layout=compact&langs_count=16&theme=radical)
 
 
 
