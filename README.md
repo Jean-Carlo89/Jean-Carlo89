@@ -21,7 +21,7 @@
  
 
 
-I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, and I am currently studying Java with the Spring ecosystem.
+I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, and I am currently studying for the AWS Solutions Architect certificate
 
 
 
