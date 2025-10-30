@@ -21,7 +21,7 @@
  
 
 
-I have been working as a full stack developer for two years, my main stack is ReactJs and NodeJs with Typescript, and I am currently studying for the AWS Solutions Architect certificate
+I have been working as a full stack developer for two years, my main stacks are ReactJs and NodeJs with Typescript, and I am currently studying for the AWS Solutions Architect certificate
 
  🎓🎉 Computer Engineering - UFBA </br> </br>
  👨‍💻 Trainee de DRE da TITAN [<img align="center" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
