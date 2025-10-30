@@ -31,12 +31,30 @@ I have been working as a full stack developer for two years, my main stack is Re
 
 <h3 align="left">Contacts:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeanscarlo/?locale=en_US" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>
+<!-- https://raw.githubusercontent.com/Jean-Carlo89/meu-readme/main/icons/linkedin.png -->
+ <!---->
+
+  <!--<a href="https://www.linkedin.com/in/jeanscarlo/?locale=en_US" target="blank" title="Linkedin"><img align="center" src="./icons/linkedin.png" height="40" width="40" /></a>-->
+   <!--<a href="https://www.linkedin.com/in/jeanscarlo/?locale=en_US" target="blank" title="Linkedin"><img align="center" src="https://raw.githubusercontent.com/Jean-Carlo89/meu-readme/main/icons/linkedin.png" height="40" width="40" /></a>
 <a href="mailto:jeancarlodev@gmail.com" target="black" title="Email"><img align="center" src="./icons/email.png" height="40" width="40" /></a>
 <a href="https://github.com/Jean-Carlo89" target="blank" title="GitHub"><img align="center" src="./icons/github.png" height="40" width="40" /></a>
 </p>
+-->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Contacts:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/jeanscarlo/?locale=en_US" target="_blank" title="Linkedin">
+        <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+    </a>
+    <a href="mailto:jeancarlodev@gmail.com" target="_black" title="Email">
+        <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" width="40" />
+    </a>
+    <a href="https://github.com/Jean-Carlo89" target="_blank" title="GitHub">
+        <img align="center" src="https://skillicons.dev/icons?i=github" height="40" width="40" />
+    </a>
+</p>
+
+<!--<h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Front-end:</h4>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank" alt="html5"> <img src="./icons/html.png" alt="html5" width="40" height="40"/> </a>
@@ -44,9 +62,71 @@ I have been working as a full stack developer for two years, my main stack is Re
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="javascript" > <img src="./icons/js.png" alt="javascript" width="40" height="40"/> </a>
  <a href="https://getbootstrap.com/" target="_blank" alt="bootstrap" > <img src="./icons/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://reactjs.org" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="reactjs" width="40" height="40"/> </a>
+-->
 
- 
+
+
+<!---->
+ <h4 align="left">Front-end:</h4>
+<p align="left">
+    <a href="https://www.w3.org/html/" target="_blank" alt="html5"> 
+        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" alt="css3" > 
+        <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="javascript" > 
+        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
+    </a>
+    <a href="https://getbootstrap.com/" target="_blank" alt="bootstrap" > 
+        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
+    </a>
+    <a href="https://reactjs.org" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="40" height="40"/> 
+    </a>
+</p>
+
+
+
+
+
 <h4 align="left">Back-end:</h4>
+<p align="left">  
+ <a href="https://www.nodejs.org" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node JS" width="40" height="40"/> 
+</a>
+ <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/> 
+</a>
+ <a href="https://www.docker.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> 
+</a>
+ <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="Pstgre SQL" width="40" height="40"/> 
+</a>
+ <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mySQL" width="40" height="40"/> 
+</a>
+ <a href="https://www.mongodb.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="Mongo DB" width="40" height="40"/> 
+</a>
+ <a href="https://aws.amazon.com" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
+</a>
+ <a href="https://www.heroku.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" width="40" height="40"/> 
+</a>
+ <a href="https://jestjs.io/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=jest" alt="Jest" width="40" height="40"/> 
+</a>
+ <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+</a>
+<a href="https://nestjs.com//" target="_blank"> 
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="git" width="40" height="40"/> 
+</a>
+</p>
+<!--<h4 align="left">Back-end:</h4>
 <p align="left">  
  <a href="https://www.nodejs.org" target="_blank"> <img src="./icons/node.png" alt="Node JS" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="./icons/typescript.png" alt="TypeScript" width="40" height="40"/> </a>
@@ -60,7 +140,7 @@ I have been working as a full stack developer for two years, my main stack is Re
  <a href="https://jestjs.io/" target="_blank"> <img src="./icons/jest.png" alt="Jest" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="./icons/git.png" alt="git" width="40" height="40"/> </a>
 <a href="https://nestjs.com//" target="_blank"> <img src="./icons/nest.png" alt="git" width="40" height="40"/> </a>
-</p>
+</p>-->
 
 ***
 
